@@ -9,15 +9,64 @@
     <link href="style.css" rel="stylesheet">  
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="./versor.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"></script>
     <!-- <script type="text/javascript" src="js/d3.js"></script> -->
 </head>
 <body>
-    <div id="container">
+    <!-- <div id="container">
     </div>
     <div class="lt"></div>
     <div class="rt"></div>
     <div class="lb"></div>
-    <div class="rb"></div>
-    <script src="./app.js"></script>
+    <div class="rb"></div> -->
+    <h2 id="current"></h2>
+    <h3 id="percent"></h3>
+    <div class="container"></div>
+    <canvas id="globe"></canvas>
+    <div class="container2">
+        <div class="icon-chart-container">
+            <div class="age-container">
+                <div class="age-group">
+                    <p>80세 이상</p>
+                </div>
+                <div class="age-group">
+                    <p>70 ~ 79</p>
+                </div>
+                <div class="age-group">
+                    <p>60 ~ 69</p>
+                </div>
+                <div class="age-group">
+                    <p>50 ~ 59</p>
+                </div>
+                <div class="age-group">
+                    <p>40 ~ 49</p>
+                </div>
+                <div class="age-group">
+                    <p>30 ~ 39</p>
+                </div>
+                <div class="age-group">
+                    <p>18 ~ 29</p>
+                </div>
+            </div>
+            <div class="icons-container">
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+                <div class="icon-chart">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="./app.js"></script>
 </body>
 </html>

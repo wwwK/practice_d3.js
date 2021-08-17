@@ -1,0 +1,210 @@
+id,name,fullyVaccinated
+4,Afghanistan,0.56%
+8,Albania,18.58%
+12,Algeria,1.65%
+24,Angola,2.16%
+660,Anguilla,58.43%
+28,Antigua and Barbuda,31.58%
+32,Argentina,15.84%
+51,Armenia,1.74%
+533,Aruba,61.70%
+36,Australia,15.42%
+40,Austria,51.73%
+31,Azerbaijan,20.88%
+44,Bahamas,11.90%
+48,Bahrain,62.22%
+50,Bangladesh,2.64%
+52,Barbados,26.64%
+112,Belarus,10.38%
+56,Belgium,60.21%
+84,Belize,13.14%
+204,Benin,0.18%
+60,Bermuda,65.83%
+64,Bhutan,61.39%
+68,Bolivia,14.80%
+535,Bonaire Sint Eustatius and Saba,
+70,Bosnia and Herzegovina,8.54%
+72,Botswana,5.47%
+76,Brazil,19.53%
+92,British Virgin Islands,37.83%
+96,Brunei,7.24%
+100,Bulgaria,14.48%
+116,Cambodia,29.55%
+120,Cameroon,0.21%
+124,Canada,59.46%
+132,Cape Verde,3.90%
+136,Cayman Islands,72.95%
+140,Central African Republic,0.20%
+148,Chad,0.06%
+152,Chile,65.79%
+156,China,53.99%
+170,Colombia,24.32%
+174,Comoros,4.76%
+178,Congo,1.20%
+184,Cook Islands,54.53%
+188,Costa Rica,16.94%
+191,Croatia,36.39%
+192,Cuba,23.69%
+531,Curacao,50.43%
+196,Cyprus,51.75%
+203,Czechia,45.80%
+180,Democratic Republic of Congo,0.00%
+208,Denmark,56.17%
+262,Djibouti,1.92%
+212,Dominica,27.31%
+214,Dominican Republic,39.19%
+218,Ecuador,13.96%
+818,Egypt,1.75%
+222,El Salvador,23.09%
+226,Equatorial Guinea,9.15%
+233,Estonia,37.52%
+748,Eswatini,2.39%
+234,Faeroe Islands,61.56%
+238,Falkland Islands,
+242,Fiji,16.09%
+246,Finland,35.41%
+250,France,48.32%
+258,French Polynesia,26.25%
+266,Gabon,1.84%
+270,Gambia,0.51%
+268,Georgia,4.31%
+276,Germany,52.33%
+288,Ghana,1.31%
+292,Gibraltar,116.18%
+300,Greece,49.87%
+304,Greenland,45.96%
+308,Grenada,14.43%
+320,Guatemala,1.93%
+831,Guernsey,
+324,Guinea,2.59%
+624,Guinea-Bissau,0.12%
+328,Guyana,18.01%
+332,Haiti,0.00%
+340,Honduras,3.36%
+344,Hong Kong,33.29%
+348,Hungary,56.45%
+352,Iceland,74.63%
+356,India,7.77%
+360,Indonesia,7.65%
+364,Iran,3.30%
+368,Iraq,1.23%
+372,Ireland,56.41%
+833,Isle of Man,69.97%
+376,Israel,62.19%
+380,Italy,53.00%
+388,Jamaica,4.47%
+392,Japan,30.69%
+832,Jersey,68.00%
+400,Jordan,22.15%
+398,Kazakhstan,20.44%
+404,Kenya,1.23%
+-2,Kosovo,8.07%
+414,Kuwait,21.62%
+417,Kyrgyzstan,1.84%
+418,Laos,15.99%
+428,Latvia,36.51%
+422,Lebanon,12.52%
+426,Lesotho,1.69%
+430,Liberia,0.18%
+438,Liechtenstein,49.44%
+440,Lithuania,46.15%
+442,Luxembourg,50.60%
+446,Macao,35.60%
+454,Malawi,0.73%
+458,Malaysia,22.35%
+462,Maldives,50.87%
+466,Mali,0.28%
+470,Malta,87.21%
+478,Mauritania,0.40%
+480,Mauritius,43.56%
+484,Mexico,20.10%
+498,Moldova,12.39%
+492,Monaco,49.06%
+496,Mongolia,60.61%
+499,Montenegro,24.59%
+500,Montserrat,26.75%
+504,Morocco,27.86%
+508,Mozambique,1.03%
+104,Myanmar,
+516,Namibia,1.95%
+520,Nauru,66.93%
+524,Nepal,6.86%
+528,Netherlands,54.21%
+540,New Caledonia,21.57%
+554,New Zealand,15.71%
+558,Nicaragua,5.12%
+562,Niger,0.13%
+566,Nigeria,0.69%
+570,Niue,1.98%
+807,North Macedonia,19.26%
+-1,Northern Cyprus,
+578,Norway,33.72%
+512,Oman,12.70%
+586,Pakistan,4.93%
+275,Palestine,8.19%
+591,Panama,16.21%
+598,Papua New Guinea,0.19%
+600,Paraguay,4.02%
+604,Peru,16.93%
+608,Philippines,8.32%
+612,Pitcairn,76.60%
+616,Poland,46.34%
+620,Portugal,57.86%
+634,Qatar,60.91%
+642,Romania,25.36%
+643,Russia,17.51%
+646,Rwanda,3.11%
+654,Saint Helena,
+659,Saint Kitts and Nevis,37.16%
+662,Saint Lucia,13.49%
+670,Saint Vincent and the Grenadines,8.95%
+882,Samoa,12.80%
+674,San Marino,69.18%
+678,Sao Tome and Principe,5.42%
+682,Saudi Arabia,24.74%
+686,Senegal,1.81%
+688,Serbia,39.78%
+690,Seychelles,69.71%
+694,Sierra Leone,
+702,Singapore,59.93%
+534,Sint Maarten (Dutch part),49.21%
+703,Slovakia,36.64%
+705,Slovenia,39.14%
+90,Solomon Islands,1.60%
+706,Somalia,0.55%
+710,South Africa,5.03%
+410,South Korea,14.01%
+728,South Sudan,0.04%
+724,Spain,58.68%
+144,Sri Lanka,10.53%
+729,Sudan,0.42%
+740,Suriname,10.43%
+752,Sweden,42.43%
+756,Switzerland,48.13%
+760,Syria,0.05%
+158,Taiwan,1.70%
+762,Tajikistan,0.59%
+834,Tanzania,0.18%
+764,Thailand,5.72%
+626,Timor,7.83%
+768,Togo,1.86%
+776,Tonga,17.70%
+780,Trinidad and Tobago,13.94%
+788,Tunisia,11.89%
+792,Turkey,32.79%
+795,Turkmenistan,
+796,Turks and Caicos Islands,58.62%
+800,Uganda,
+804,Ukraine,4.78%
+784,United Arab Emirates,70.70%
+826,United Kingdom,56.81%
+840,United States,49.31%
+858,Uruguay,64.65%
+860,Uzbekistan,3.68%
+548,Vanuatu,0.04%
+862,Venezuela,3.87%
+704,Vietnam,0.73%
+876,Wallis and Futuna,41.24%
+887,Yemen,0.04%
+894,Zambia,0.84%
+716,Zimbabwe,5.38%
